@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Barnivore</string>
+
+
+    <!-- Preferences -->
+    <string name="user_has_seen_onboarding">user_has_seen_onboarding</string>
+
+
+</resources>
