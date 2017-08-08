@@ -6,4 +6,12 @@
     <string name="user_has_seen_onboarding">user_has_seen_onboarding</string>
 
 
+    <!-- Adapter Defaults -->
+    <string name="item_liquor_name">name</string>
+    <string name="item_liquor_type">type?</string>
+    <string name="item_liquor_vegan">vegan?</string>
+    <string name="item_liquor_created">created</string>
+    <string name="item_liquor_modified">modified</string>
+    <string name="item_liquor_notes">notes</string>
+
 </resources>
